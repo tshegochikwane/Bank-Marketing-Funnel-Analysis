@@ -7,9 +7,9 @@ a bank's telemarketing campaign to understand conversion rates,
 funnel drop-offs and channel performance.
 
 ## Tools Used
-- Python (Pandas, Matplotlib) — data cleaning and EDA
-- Power BI — interactive funnel dashboard
-- GitHub — version control and documentation
+- Python (Pandas, Matplotlib) - data cleaning and EDA
+- Power BI - interactive funnel dashboard
+- GitHub - version control and documentation
 
 ## Files
 | File | Description |
@@ -19,7 +19,7 @@ funnel drop-offs and channel performance.
 | `TTK Chikwane - Task3.ipynb` | Python EDA notebook |
 
 ## Key Insights
-- Overall conversion rate is 11.70% — only 1 in 9 contacts converted
+- Overall conversion rate is 11.70%, only 1 in 9 contacts converted
 - Students and retired customers have the highest conversion rates
 - Cellular contact channel drives 82.61% of all conversions
 - Customers with successful previous campaign outcomes convert best
@@ -30,7 +30,7 @@ funnel drop-offs and channel performance.
 ## Recommendations
 - Focus campaigns on students and retired customer segments
 - Prioritise cellular as the primary contact channel
-- Limit contacts to 1-3 per customer — more calls reduce conversion
+- Limit contacts to 1-3 per customer, more calls reduce conversion
 - Train agents to keep customers engaged longer on calls
 - Re-target customers who converted in previous campaigns
 - Run campaigns in March, September and October for best results
